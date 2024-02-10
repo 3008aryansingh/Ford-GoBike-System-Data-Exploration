@@ -1,5 +1,5 @@
 # Ford GoBike System Data Exploration
-## by Ayanwoye Gideon Ayandele
+## by Aryan Singh
 
 ## Overview
 Ford GoBike System Data Exploration and Findings Communication: This document explores a dataset with information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area in 2019
@@ -43,4 +43,4 @@ For the presentation:\
 
 ## Feedback
 
-If you have any feedback, please reach out to me at ayangidel@hotmail.com
+If you have any feedback, please reach out to me at singharyan3008@gmail.com/ +919860177421
